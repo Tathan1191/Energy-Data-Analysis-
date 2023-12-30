@@ -19,6 +19,7 @@ How has electricity generation from specific renewable sources changed?
 What is the relationship between access to clean energy for cooking and access to electricity?
 
 How has countries' share of renewable energy use evolved since 2000?
+
 ![Logo de Mi Proyecto](https://github.com/Tathan1191/Energy-Data-Analysis-/blob/main/R%20project%20images%20energy/Rplot.png)
 
 ![Logo de Mi Proyecto](https://github.com/Tathan1191/Energy-Data-Analysis-/blob/main/R%20project%20images%20energy/Rplot02.png)
